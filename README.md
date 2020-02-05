@@ -1,13 +1,6 @@
 # Azure IOT central with MX kit
 
 
-## Links
-
-### [MXchip quickstart Portal](https://microsoft.github.io/azure-iot-developer-kit/)
-
-### [IOT school](https://iotschool.microsoft.com/en-us/home)
-
-
 ## Getting started with IOT Central:
 
 [Connecting your device](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-connect-devkit)
@@ -19,3 +12,12 @@
 ## IOT school:
 
 [IOT school bootcamp](https://iotschool.microsoft.com/en-us/iot/learning-paths/1z75cTRBNqEA2EigQoQKKe)
+
+
+## Links
+
+### [MXchip quickstart Portal](https://microsoft.github.io/azure-iot-developer-kit/)
+
+### [IOT school](https://iotschool.microsoft.com/en-us/home)
+
+### [IOT show](https://aka.ms/IoTShow)
