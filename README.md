@@ -14,10 +14,4 @@
 
 ## Advanced:
 
-[Translation with Azure Cognitive Services](https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-translator/sample/) 
-
-[Azure Maps and IOT location]( https://github.com/rangv/MarchWorkshop/tree/master/AzureMaps)
-
-## Bonus:
-
-[Rock, Paper, Scissors, Lizard, Spock](https://github.com/microsoft/RockPaperScissorsLizardSpock)
+[IOT school bootcamp](https://iotschool.microsoft.com/en-us/iot/learning-paths/1z75cTRBNqEA2EigQoQKKe)
